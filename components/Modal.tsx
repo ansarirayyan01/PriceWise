@@ -129,6 +129,7 @@ const Modal = ({ productId }: Props) => {
           </div>
         </Dialog>
       </Transition>
+      
     </>
   )
 }
